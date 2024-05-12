@@ -20,7 +20,8 @@ import { useEffect, useRef } from "react";
 import PropTypes from "prop-types";
 
 // threejs components
-import * as THREE from "three";
+import { BufferGeometry } from 'three';
+// import * as THREE from "three";
 import { OrbitControls } from "@three-ts/orbit-controls";
 
 import SoftBox from "components/SoftBox";

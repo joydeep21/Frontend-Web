@@ -16,7 +16,7 @@ Coded by www.creative-tim.com
 import { useState } from "react";
 
 // react-images-viewer components
-import ImgsViewer from "react-images-viewer";
+// import ImgsViewer from "react-images-viewer";
 
 // @mui material components
 import Grid from "@mui/material/Grid";
@@ -48,7 +48,7 @@ function ProductImages() {
 
   return (
     <SoftBox>
-      <ImgsViewer
+  {/* //    <ImgsViewer
         imgs={[{ src: image1 }, { src: image2 }, { src: image3 }, { src: image4 }, { src: image5 }]}
         isOpen={imgsViewer}
         onClose={closeImgsViewer}
@@ -56,7 +56,7 @@ function ProductImages() {
         onClickPrev={imgsViewerPrev}
         onClickNext={imgsViewerNext}
         backdropCloseable
-      />
+      /> */}
 
       <SoftBox
         component="img"
