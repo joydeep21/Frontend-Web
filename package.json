@@ -49,7 +49,6 @@
     "react-dom": ">=18.3.1",
     "react-flatpickr": "3.10.13",
     "react-github-btn": "^1.4.0",
-    "react-images-viewer": "1.7.1",
     "react-leaflet": "4.2.1",
     "react-quill": "2.0.0",
     "react-router-dom": "6.23.1",
