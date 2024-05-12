@@ -1,5 +1,5 @@
 {
-  "homepage": "https://joydeep21.github.io/Frontend-Web",
+  "homepage": "http://github.com/joydeep21/Frontend-Web",
   "name": "Admin_Portal",
   "version": "4.0.0",
   "author": "Joydeep Shaw",
@@ -43,7 +43,7 @@
     "html-react-parser": "2.0.0",
     "leaflet": "1.8.0",
     "prop-types": "15.8.1",
-    "react": ">=16.8.0",
+    "react": "^17.0.2",
     "react-chartjs-2": "3.0.4",
     "react-circular-slider-svg": "0.1.5",
     "react-countup": "6.3.0",
@@ -85,8 +85,8 @@
     ]
   },
   "peerDependencies": {
-    "react": ">=16.8.0",
-    "react-dom": ">=16.8.0"
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   },
   "browserslist": {
     "production": [
