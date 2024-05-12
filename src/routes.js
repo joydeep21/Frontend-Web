@@ -60,7 +60,7 @@ import SweetAlerts from "layouts/pages/sweet-alerts";
 import Notifications from "layouts/pages/notifications";
 import PricingPage from "layouts/pages/pricing-page";
 import RTL from "layouts/pages/rtl";
-import Kanban from "layouts/applications/kanban";
+// import Kanban from "layouts/applications/kanban";
 import Wizard from "layouts/applications/wizard";
 import DataTables from "layouts/applications/data-tables";
 import Calendar from "layouts/applications/calendar";
