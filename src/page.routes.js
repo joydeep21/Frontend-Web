@@ -371,12 +371,12 @@ const pageRoutes = [
     name: "Applications",
     key: "applications",
     collapse: [
-      {
-        name: "Kanban",
-        key: "kanban",
-        route: "/applications/kanban",
-        icon: "apps",
-      },
+      // {
+      //   name: "Kanban",
+      //   key: "kanban",
+      //   route: "/applications/kanban",
+      //   icon: "apps",
+      // },
       {
         name: "Wizard",
         key: "wizard",

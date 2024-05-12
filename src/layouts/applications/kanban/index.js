@@ -16,7 +16,7 @@ Coded by www.creative-tim.com
 import { useState } from "react";
 
 // @asseinfo/react-kanban components
-import Board from "@asseinfo/react-kanban";
+// import Board from "@asseinfo/react-kanban";
 
 // html-react-parser components
 import parse from "html-react-parser";
@@ -38,7 +38,7 @@ import DashboardNavbar from "examples/Navbars/DashboardNavbar";
 import Footer from "examples/Footer";
 
 // Kanban application components
-import Header from "layouts/applications/kanban/components/Header";
+// import Header from "layouts/applications/kanban/components/Header";
 
 // Data
 import boards from "layouts/applications/kanban/data";

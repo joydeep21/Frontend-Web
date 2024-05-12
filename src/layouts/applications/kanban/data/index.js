@@ -17,7 +17,7 @@ Coded by www.creative-tim.com
 import { v4 as uuidv4 } from "uuid";
 
 // Kanban application components
-import Card from "layouts/applications/kanban/components/Card";
+// import Card from "layouts/applications/kanban/components/Card";
 
 // Images
 import officeDark from "assets/images/office-dark.jpg";
@@ -34,28 +34,28 @@ const boards = {
     {
       id: uuidv4(),
       title: "Backlog",
-      cards: [
-        {
-          id: uuidv4(),
-          template: "Change me to change title",
-        },
-        {
-          id: uuidv4(),
-          template: "Drag me to 'In progress' section",
-        },
-        {
-          id: uuidv4(),
-          template: (
-            <Card
-              image={officeDark}
-              badge={{ color: "dark", label: "pending" }}
-              content="Website Design: New cards for blog section and profile details"
-              attachedFiles={3}
-              members={[team1, team2, team3]}
-            />
-          ),
-        },
-      ],
+      // cards: [
+      //   {
+      //     id: uuidv4(),
+      //     template: "Change me to change title",
+      //   },
+      //   {
+      //     id: uuidv4(),
+      //     template: "Drag me to 'In progress' section",
+      //   },
+      //   {
+      //     id: uuidv4(),
+      //     template: (
+      //       <Card
+      //         image={officeDark}
+      //         badge={{ color: "dark", label: "pending" }}
+      //         content="Website Design: New cards for blog section and profile details"
+      //         attachedFiles={3}
+      //         members={[team1, team2, team3]}
+      //       />
+      //     ),
+      //   },
+      // ],
     },
     {
       id: uuidv4(),
